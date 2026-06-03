@@ -24,7 +24,7 @@ const Header = ({ setIsOpen }: { setIsOpen: (val: boolean) => void }) => {
             type="text"
             placeholder="Search..."
             className="pl-9 pr-4 py-2 border border-gray-300 rounded-md text-sm focus:outline-none focus:ring-1 focus:ring-black focus:border-black"
-          />
+          /> 
         </div>
         <button className="p-1 text-gray-400 hover:text-gray-500 relative">
           <Bell className="h-5 w-5" />
