@@ -16,7 +16,6 @@ const Header = ({ setIsOpen }: { setIsOpen: (val: boolean) => void }) => {
           <span className="font-medium text-gray-900">Dashboard</span> 
         </div>
       </div>
-
       <div className="flex items-center space-x-4">
         <div className="relative hidden sm:block">
           <Search className="h-4 w-4 absolute left-3 top-1/2 transform -translate-y-1/2 text-gray-400" />
