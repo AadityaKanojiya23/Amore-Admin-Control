@@ -9,7 +9,7 @@ const Header = ({ setIsOpen }: { setIsOpen: (val: boolean) => void }) => {
         <button
           onClick={() => setIsOpen(true)}
           className="p-1 -ml-1 mr-4 md:hidden text-gray-500 hover:text-gray-700"
-        >
+        > 
           <Menu className="h-6 w-6" />
         </button>
         <div className="hidden md:flex items-center text-sm text-gray-500">
