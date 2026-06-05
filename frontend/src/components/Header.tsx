@@ -13,7 +13,7 @@ const Header = ({ setIsOpen }: { setIsOpen: (val: boolean) => void }) => {
           <Menu className="h-6 w-6" />
         </button>
         <div className="hidden md:flex items-center text-sm text-gray-500">
-          <span className="font-medium text-gray-900">Dashboard</span>
+          <span className="font-medium text-gray-900">Dashboard</span> 
         </div>
       </div>
 
