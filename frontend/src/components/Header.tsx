@@ -30,7 +30,7 @@ const Header = ({ setIsOpen }: { setIsOpen: (val: boolean) => void }) => {
           <span className="absolute top-1 right-1 h-2 w-2 rounded-full bg-red-500 border-2 border-white"></span>
         </button>
         <div className="h-8 w-8 rounded-full bg-black text-white flex items-center justify-center text-sm font-medium">
-          A
+          A 
         </div>
       </div>
     </header>
