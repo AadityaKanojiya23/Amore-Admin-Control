@@ -1,4 +1,4 @@
-"use client";  
+"use client";   
 import React from 'react'; 
 import { Menu, Bell, Search } from 'lucide-react';    
  
